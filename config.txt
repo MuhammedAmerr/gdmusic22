@@ -3,4 +3,4 @@ prefix=2
 game=Music || 2play
 stayinchannel=true
 songinstatus=true
-token=NTY1NjA2NzQ2NzUyODExMDI5.XK44dQ.RNoFhZsxp35X89R7lchKQtsPq8Q
+token=NTY1NjA2NzQ2NzUyODExMDI5.XK47Hw.C9YZ_TfLr9t-4XFOw3lfZ36nRn8
