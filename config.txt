@@ -1,0 +1,6 @@
+owner=561643377154719776
+prefix=2
+game=Music || 2play
+stayinchannel=true
+songinstatus=true
+token=NTY1NjA2NzQ2NzUyODExMDI5.XK44dQ.RNoFhZsxp35X89R7lchKQtsPq8Q
